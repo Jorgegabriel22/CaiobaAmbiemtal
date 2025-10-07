@@ -49,7 +49,7 @@
                         <a href="#services" class="bg-blue-300 hover:bg-white-100 text-black font-semibold px-6 py-3 rounded-full transition text-center shadow-lg hover:text-yellow-300 transition">
                             <i class="fas fa-concierge-bell mr-2"></i> Nossos Serviços
                         </a>
-                        <a href="tel:+554199159904" class="bg-blue-300 hover:bg-white-100 text-black font-semibold px-6 py-3 rounded-full transition text-center shadow-lg hover:text-yellow-300 transition">
+                        <a href="https://wa.me/554199159904" class="bg-blue-300 hover:bg-white-100 text-black font-semibold px-6 py-3 rounded-full transition text-center shadow-lg hover:text-yellow-300 transition">
                             <i class="fas fa-phone-alt mr-2 "></i> Ligar Agora
                         </a>
                     </div>
